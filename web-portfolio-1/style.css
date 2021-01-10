@@ -1,0 +1,92 @@
+ body{
+     margin: 0;
+      font-family: 'Libre Baskerville', serif;
+ }
+h1{
+    line-height: 90%;
+}
+h1 span{
+    padding-left: 6%;
+}
+h2{
+    font-size: 25px;
+}
+.orenge-highlight{
+    color: rgb(156, 1, 1);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 100px;
+}
+
+h3{
+    padding-top: 25px;
+}
+.text{
+    text-align: justify;
+    font-size: 18px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/background-1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 525px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 15px ;
+    font-weight: bold;
+    color: rgb(228, 228, 228);
+    background-image: linear-gradient(00deg, #2c0e66, rgb(189, 51, 1));
+    border: 1px solid rgb(255, 1, 1);
+    padding: 10px 14px;
+    border-radius: 6px;
+}
+.text-2{
+    text-align: justify;
+    font-size: 17px;
+}
+.dream-area{
+    /* height: 340px; */
+    background-image: url(images/a.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.color{
+    color: rgb(156, 1, 1);
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    padding: 22px;
+}
+.experience-area{
+    background-image: url(images/ff.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: white;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-Gradient(180deg, #fa8663, rgb(236, 120, 11));
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(160deg, rgb(144, 2, 2), rgb(0, 26, 255));
+    border-image-slice: 1;
+}
+footer p{
+        font-size: 17px;
+        text-align: center;
+}
