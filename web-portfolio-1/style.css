@@ -5,8 +5,8 @@
 h1{
     line-height: 90%;
 }
-h1 span{
-    padding-left: 6%;
+.space{
+    margin-left: 66px; 
 }
 h2{
     font-size: 25px;
